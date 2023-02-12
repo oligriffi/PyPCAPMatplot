@@ -11,6 +11,6 @@ This program captures packets on the network interface `ens33` and displays a li
 ```
 python packet_capture.py
 ```
-
+![Example](Figure_1.png)
 
 
